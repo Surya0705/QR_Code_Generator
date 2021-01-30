@@ -1,5 +1,5 @@
 # QR_Code_Generator
-This Python Program generates QR Codes of the link entered. Just paste the link in the terminal and hit enter and it will automatically display the QR_Code on the Screen. But it uses modules such as pypng, pyqrcode and opencv. JIf you are in Windows then just install the modules by:
+This Python Program generates QR Codes of the link entered. Just paste the link in the terminal and hit enter and it will automatically display the QR_Code on the Screen. But it uses modules such as pypng, pyqrcode and opencv. If you are in Windows then just install the modules by:
 ```
 pip install pypng
 ```
